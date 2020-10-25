@@ -1,0 +1,10 @@
+E:\Entwicklung\Extrem_launcher_beta\bin\Release\DayZ Extrem Test Launcher.exe.config
+E:\Entwicklung\Extrem_launcher_beta\bin\Release\DayZ Extrem Test Launcher.exe
+E:\Entwicklung\Extrem_launcher_beta\bin\Release\DayZ Extrem Test Launcher.pdb
+E:\Entwicklung\Extrem_launcher_beta\bin\Release\Phant0m.dll
+E:\Entwicklung\Extrem_launcher_beta\obj\x86\Release\DayZ Extrem Test Launcher.csprojResolveAssemblyReference.cache
+E:\Entwicklung\Extrem_launcher_beta\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\Entwicklung\Extrem_launcher_beta\obj\x86\Release\ExtremLauncher.Properties.Resources.resources
+E:\Entwicklung\Extrem_launcher_beta\obj\x86\Release\DayZ Extrem Test Launcher.csproj.GenerateResource.Cache
+E:\Entwicklung\Extrem_launcher_beta\obj\x86\Release\DayZ Extrem Test Launcher.exe
+E:\Entwicklung\Extrem_launcher_beta\obj\x86\Release\DayZ Extrem Test Launcher.pdb
