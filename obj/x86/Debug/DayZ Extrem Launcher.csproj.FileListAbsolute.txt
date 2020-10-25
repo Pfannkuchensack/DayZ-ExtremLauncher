@@ -1,0 +1,15 @@
+C:\Program Files\Entwicklung\neu_launcher\bin\Debug\DayZ Extrem Launcher.exe.config
+C:\Program Files\Entwicklung\neu_launcher\bin\Debug\DayZ Extrem Launcher.exe
+C:\Program Files\Entwicklung\neu_launcher\bin\Debug\DayZ Extrem Launcher.pdb
+C:\Program Files\Entwicklung\neu_launcher\bin\Debug\Ionic.Zip.dll
+C:\Program Files\Entwicklung\neu_launcher\bin\Debug\Phant0m.dll
+C:\Program Files\Entwicklung\neu_launcher\bin\Debug\Ionic.Zip.xml
+C:\Program Files\Entwicklung\neu_launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Entwicklung\neu_launcher\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Program Files\Entwicklung\neu_launcher\obj\x86\Debug\ExtremLauncher.Properties.Resources.resources
+C:\Program Files\Entwicklung\neu_launcher\obj\x86\Debug\ResGen.read.1.tlog
+C:\Program Files\Entwicklung\neu_launcher\obj\x86\Debug\ResGen.write.1.tlog
+C:\Program Files\Entwicklung\neu_launcher\obj\x86\Debug\DayZ Extrem Launcher.exe
+C:\Program Files\Entwicklung\neu_launcher\obj\x86\Debug\DayZ Extrem Launcher.pdb
+C:\Program Files\Entwicklung\neu_launcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Program Files\Entwicklung\neu_launcher\obj\x86\Debug\GenerateResource.write.1.tlog
